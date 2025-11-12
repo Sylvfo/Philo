@@ -9,7 +9,7 @@
 ### Something interesting about this project ✨
 Not sure if Socrate would have appreciate this... But for IT people, philosophers only eat, sleep, think, repeat,...
 All of them possess only one fork, but need 2 to have dinner. If they do not eat often enough, they die. If one die, they all die.
-Everything about this project is to help them sharing forks so they can all eat their turn.
+Everything about this project is to help them sharing forks so they can all eat their turn. Each philo is a thread and each fork a mutex.
 
 Wait! Is it ok to consider a bunch of men with huge egos need to be monitored to do different things in the same time and be kind enough to each other to share their forks in an equal way???
 Apparently yes...
