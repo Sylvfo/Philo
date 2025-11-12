@@ -8,6 +8,9 @@
 
 ### Something interesting about this project ✨
 
+<img width="1831" height="744" alt="image" src="https://github.com/user-attachments/assets/340a3718-bdd1-4df4-9d1b-4f74028006b0" />
+
+
 mutex threads
 algo
 forks
