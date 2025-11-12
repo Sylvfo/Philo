@@ -11,7 +11,7 @@ Not sure if Socrate would have appreciate this... But for IT people, philosopher
 All of them possess only one fork, but need 2 to have dinner. If they do not eat often enough, they die. If one die, they all die.
 Everything about this project is to help them sharing forks so they can all eat their turn.
 
-Wait! Is it ok to consider a bunch of white men need with huge egos to be monitored to do different things in the same time and be kind enough to each other to share their forks in an equal way???
+Wait! Is it ok to consider a bunch of white old men with huge egos need to be monitored to do different things in the same time and be kind enough to each other to share their forks in an equal way???
 Apparently yes...
 
 When it is an even number of philosophers, it is easy. They can alternate between odd and even to share the forks. You -> Your right friend -> You ->  Your right friend -> ...
