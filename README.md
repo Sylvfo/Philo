@@ -16,23 +16,21 @@ Apparently yes...
 
 When it is an even number of philosophers, it is easy. They can alternate between odd and even to share the forks. You -> Your right friend -> You ->  Your right friend -> ...
 
-But what happens when there is an odd number of philosophers?
+**But what happens when there is an odd number of philosophers?**
 <img width="1831" height="744" alt="image" src="https://github.com/user-attachments/assets/340a3718-bdd1-4df4-9d1b-4f74028006b0" />
-How to handle with precision the ballet of the forks so we do not loose time or ressources?
+**How to handle with precision the ballet of the forks so we do not loose time or ressources?**
 
-This is where the algorithm gets interesting — good design is everything.
+**This is where the algorithm gets interesting — good design is everything.**
 
 Ahah, teaching these philosophers to clean their own fork make the programm way way more performing. 
 And what happen is they don't do it? A Data Race incident can occure... And the programm will crash.
 
 Thank Gods, the Nordic mythology provide us the godess Hel who will check if they behave well. 
 
-Evaluation reviews
-
 *Belle demonstration avec beaucoup d'explications, a pu repondre sans soucis a toutes mes questions :) Jolie metaphore pour l'ordre de priorites des fourchettes dans le cas ou les philos sont en nombre impaire. Bonne suite a toi ! :D*
 MW
 
-*Impressive, probably the most advanced version of philosophers I've come across. Works even for 600 philosophers. What even is this. Great job.*
+***Impressive, probably the most advanced version of philosophers I've come across. Works even for 600 philosophers. What even is this. Great job.***
 JB
 
 ### 🖥️ Compilation & Usage
