@@ -1,4 +1,4 @@
-## φ Philo
+## φ Philosophers
 
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
 
@@ -12,7 +12,7 @@ All of them possess only one fork, but need 2 to have dinner. If they do not eat
 Everything about this project is to help them sharing forks so they can all eat their turn. Each philo is a thread and each fork a mutex.
 
 Wait! Is it ok to consider a bunch of men with huge egos need to be monitored to do different things in the same time and be kind enough to each other to share their forks in an equal way???
-Apparently yes...
+Apparently yes... This exercice should be call "Politicians"
 
 When it is an even number of philosophers, it is easy. They can alternate between odd and even to share the forks. You -> Your right friend -> You ->  Your right friend -> ...
 
