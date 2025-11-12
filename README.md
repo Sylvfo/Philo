@@ -2,20 +2,23 @@
 
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
 
-**Languages & Tools:** C, Pthreads (mutex, thread management)
+**Languages & Tools:** C, Pthreads (mutex, thread management), valgrind helgrind
 
 **Skills:** Multithreading, synchronization, concurrency control, debugging timing issues
 
 ### Something interesting about this project ✨
 
 <img width="1831" height="744" alt="image" src="https://github.com/user-attachments/assets/340a3718-bdd1-4df4-9d1b-4f74028006b0" />
-
+The question is how to manage the fact that when the philo next to one is eating... in even
+really use the ressources, good optimisation
 
 mutex threads
 algo
 forks
 time
 doing many things on the same time
+
+
 
 ### 🖥️ Compilation & Usage
 
