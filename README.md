@@ -19,9 +19,16 @@ doing many things on the same time
 ```bash
 $> make
 $> ./philo number_of_philosophers, time_to_die, time_to_eat, time_to_sleep, [number_of_times_each_philosopher_must_eat]
+$> ./philo 4 500 150 200
+$>
+$> ./philo 7 100 49 49
+$>
+$> ./philo 600 400 20 25
 $> ...
 
 ```
+<img width="393" height="1154" alt="image" src="https://github.com/user-attachments/assets/685b8bb8-79c3-4cca-9502-3d67333dccaf" />
+<img width="393" height="1154" alt="image" src="https://github.com/user-attachments/assets/8621a6be-06ab-42b5-a428-b909fa34aef8" />
 
-<img width="377" height="1161" alt="image" src="https://github.com/user-attachments/assets/9b883239-790f-4560-b01a-90837b4bd4ea" />
-<img width="376" height="1146" alt="image" src="https://github.com/user-attachments/assets/b1bc6ab8-df7e-4dea-808b-2b705a57e1d3" />
+
+
