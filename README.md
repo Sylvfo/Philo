@@ -27,6 +27,8 @@ And what happen is they don't do it? A Data Race incident can occure... And the 
 
 Thank Gods, the Nordic mythology provide us the godess Hel who will check if they behave well. 
 
+#### Student reviews
+
 *Belle demonstration avec beaucoup d'explications, a pu repondre sans soucis a toutes mes questions :) Jolie metaphore pour l'ordre de priorites des fourchettes dans le cas ou les philos sont en nombre impaire. Bonne suite a toi ! :D*
 MW
 
