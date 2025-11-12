@@ -23,11 +23,12 @@ How to handle with precision the ballet of the forks so we do not loose time or 
 This is where the algorithm gets interesting — good design is everything.
 
 Ahah, teaching these philosophers to clean their own fork make the programm way way more performing. 
-And what happen is they don't do it? A Data Race incident will occure... And the programm will crash.
+And what happen is they don't do it? A Data Race incident can occure... And the programm will crash.
 
 Thank Gods, the Nordic mythology provide us the godess Hel who will check if they behave well. 
 
 Evaluation reviews
+
 *Belle demonstration avec beaucoup d'explications, a pu repondre sans soucis a toutes mes questions :) Jolie metaphore pour l'ordre de priorites des fourchettes dans le cas ou les philos sont en nombre impaire. Bonne suite a toi ! :D*
 MW
 
