@@ -1,3 +1,5 @@
+sforster
+
 ## φ Philosophers
 
 *Simulation of the classical Dining Philosophers problem using threads and mutexes to prevent deadlocks and race conditions*
@@ -50,6 +52,4 @@ $> ...
 ```
 <img width="393" height="1154" alt="image" src="https://github.com/user-attachments/assets/685b8bb8-79c3-4cca-9502-3d67333dccaf" />
 <img width="393" height="1154" alt="image" src="https://github.com/user-attachments/assets/8621a6be-06ab-42b5-a428-b909fa34aef8" />
-
-
 
